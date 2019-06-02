@@ -17,6 +17,11 @@ This project is part of Tyler Mcginnes React Fundamentals course. Please check t
 
 https://learn.tylermcginnis.com/courses/
 
+##Fire-base Deployment
+Project has been deployed on Firebase. Please check it out
+
+https://github-repo-battle.firebaseapp.com/
+
 ## Built with
 
 * React
@@ -30,8 +35,8 @@ https://learn.tylermcginnis.com/courses/
 
 ## Screenshots
 
-![Home page screenshot](/screenshots/Capture.png)
-![Battle 1 screenshot](/screenshots/Capture2.png)
-![Battle 2 screenshot](/screenshots/Capture3.png)
-![Battle 3 screenshot](/screenshots/Capture4.png)
-![Popular Repos screenshot](/screenshots/Capture5.png)
+![Home page screenshot](/screenshots/Capture.PNG)
+![Battle 1 screenshot](/screenshots/Capture2.PNG)
+![Battle 2 screenshot](/screenshots/Capture3.PNG)
+![Battle 3 screenshot](/screenshots/Capture4.PNG)
+![Popular Repos screenshot](/screenshots/Capture5.PNG)
