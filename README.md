@@ -35,4 +35,3 @@ https://learn.tylermcginnis.com/courses/
 ![Battle 2 screenshot](/screenshots/Capture3.png)
 ![Battle 3 screenshot](/screenshots/Capture4.png)
 ![Popular Repos screenshot](/screenshots/Capture5.png)
-
