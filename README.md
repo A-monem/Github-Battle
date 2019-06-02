@@ -1,17 +1,38 @@
-<img src="https://tylermcginnis.com/tylermcginnis_glasses-300.png" width="300" align="right">
+# Github battle
 
-Modern JavaScript Video Project
-========
+1.Clone the repo git clone https://github.com/A-monem/Github-battle.git into your local machine
 
-#### This is the repository for the project we'll refactor together during TylerMcGinnis.com's "Modern JavaScript" course, for more information on the course see [tylermcginnis.com/courses](https://tylermcginnis.com/courses)
+2.Cd to Github-battle
 
-## You can see the final project [here](https://rt-react-fundamentals.firebaseapp.com/)
+3.Run the command "npm run start"
 
-This is a "Github Battle App". Enter in two Github usernames, and it'll declare a winner.
+4.Open localhost:8000
 
-<img src="https://user-images.githubusercontent.com/2933430/44756093-3862d000-aae6-11e8-9091-61485c2e4f8a.png" width="800">
+Enjoy :)
 
-## Notes
-Every video is coincided with a branch. If you want to compare your code with mine or you just want to play around with the code, check out the different branches on this repository.
 
-[Tyler McGinnis](https://twitter.com/tylermcginnis)
+## Accreditation
+
+This project is part of Tyler Mcginnes React Fundamentals course. Please check the following link
+
+https://learn.tylermcginnis.com/courses/
+
+## Built with
+
+* React
+* React Router
+* JSX
+* CSS
+* Axios
+* Babel
+* Webpack
+
+
+## Screenshots
+
+![Home page screenshot](/screenshots/Capture.png)
+![Battle 1 screenshot](/screenshots/Capture2.png)
+![Battle 2 screenshot](/screenshots/Capture3.png)
+![Battle 3 screenshot](/screenshots/Capture4.png)
+![Popular Repos screenshot](/screenshots/Capture5.png)
+
