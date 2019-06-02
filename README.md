@@ -30,7 +30,7 @@ https://learn.tylermcginnis.com/courses/
 
 ## Screenshots
 
-![Home page screenshot](./screenshots/Capture.png)
+![Home page screenshot](screenshots/Capture.png)
 ![Battle 1 screenshot](/screenshots/Capture2.png)
 ![Battle 2 screenshot](/screenshots/Capture3.png)
 ![Battle 3 screenshot](/screenshots/Capture4.png)
