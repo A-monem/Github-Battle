@@ -35,16 +35,8 @@ https://github-repo-battle.firebaseapp.com/
 
 ## Screenshots
 
-<<<<<<< HEAD
 ![Home page screenshot](/screenshots/Capture.PNG)
 ![Battle 1 screenshot](/screenshots/Capture2.PNG)
 ![Battle 2 screenshot](/screenshots/Capture3.PNG)
 ![Battle 3 screenshot](/screenshots/Capture4.PNG)
 ![Popular Repos screenshot](/screenshots/Capture5.PNG)
-=======
-![Home page screenshot](/screenshots/Capture.png)
-![Battle 1 screenshot](/screenshots/Capture2.png)
-![Battle 2 screenshot](/screenshots/Capture3.png)
-![Battle 3 screenshot](/screenshots/Capture4.png)
-![Popular Repos screenshot](/screenshots/Capture5.png)
->>>>>>> fbfb0ec0d02478751e71f5b0bd1da11e7ba717da
